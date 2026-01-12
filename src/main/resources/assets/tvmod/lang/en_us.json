@@ -1,0 +1,12 @@
+{
+  "block.tvmod.tv_block": "TV",
+  "item.tvmod.tv_block": "TV",
+  "gui.tvmod.tv_screen": "TV Control",
+  "gui.tvmod.url_placeholder": "Enter video URL...",
+  "gui.tvmod.play": "Play",
+  "gui.tvmod.pause": "Pause",
+  "gui.tvmod.stop": "Stop",
+  "gui.tvmod.volume": "Volume",
+  "gui.tvmod.error.invalid_url": "Invalid URL format",
+  "gui.tvmod.error.empty_url": "Please enter a URL"
+}
