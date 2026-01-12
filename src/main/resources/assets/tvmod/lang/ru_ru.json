@@ -1,0 +1,12 @@
+{
+  "block.tvmod.tv_block": "Телевизор",
+  "item.tvmod.tv_block": "Телевизор",
+  "gui.tvmod.tv_screen": "Управление ТВ",
+  "gui.tvmod.url_placeholder": "Введите URL видео...",
+  "gui.tvmod.play": "Воспроизвести",
+  "gui.tvmod.pause": "Пауза",
+  "gui.tvmod.stop": "Стоп",
+  "gui.tvmod.volume": "Громкость",
+  "gui.tvmod.error.invalid_url": "Неверный формат URL",
+  "gui.tvmod.error.empty_url": "Введите URL"
+}
