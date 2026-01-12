@@ -1,0 +1,7 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "tvmod:block/tv_screen"
+  },
+  "elements": []
+}
