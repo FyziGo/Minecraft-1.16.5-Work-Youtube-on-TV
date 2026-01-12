@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="tvmod"
+version="${file.jarVersion}"
+displayName="TV Mod"
+description='''
+Мод добавляет функциональный телевизор в Minecraft, позволяющий воспроизводить видео с YouTube и других платформ.
+'''
+
+[[dependencies.tvmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tvmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
